@@ -7,8 +7,8 @@ Before using this script, you must have to install and properly configure s3cmd.
 
 On CentOS/RHEL/Fedora:
 
-# yum install s3cmd
+$ yum install s3cmd
 
 On Ubuntu/Dabian:
 
-# apt-get install s3cmd
+$ apt-get install s3cmd
